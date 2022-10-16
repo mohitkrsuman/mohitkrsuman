@@ -26,4 +26,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=mohitkrsuman&icon=6&color=4)](https://visitcount.itsvg.in)
 
-![Snake animation](https://github.com/mohitkrsuman/{{your_username}}/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/mohitkrsuman/mohitkrsuman/blob/output/github-contribution-grid-snake.svg)
