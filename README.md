@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @mohitkrsuman
 - 👀 I’m interested in Web Development and Blockchain.
-- 🌱 I’m currently learning Reactjs
-- 💞️ I’m looking to contribute on Web Developement Projects
 - 📫 Email-ID :- m123aryan123@gmail.com
 
 [![@mohitkrsuman's Holopin board](https://holopin.me/mohitkrsuman)](https://holopin.io/@mohitkrsuman)
