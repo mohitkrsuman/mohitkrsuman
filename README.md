@@ -1,55 +1,56 @@
-<h1 align="center">Mohit Kumar Suman</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:4834D4&height=140&section=header&text=Mohit%20Kumar%20Suman&fontSize=34&fontColor=ffffff&fontAlignY=40&desc=Full-stack%20engineer%20building%20with%20LLMs%20and%20agents&descAlignY=62&descSize=14" width="100%"/>
+
 <p align="center">
-  <b>Full-Stack Engineer · GenAI & AI Agents</b><br/>
+  <a href="https://mohitkrsuman.vercel.app">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://rydal.in">Rydal</a> &nbsp;·&nbsp;
+  <a href="mailto:mohitkrsuman25@gmail.com">Email</a> &nbsp;·&nbsp;
   Bengaluru, India
 </p>
 
-<p align="center">
-  <a href="https://mohitkrsuman.vercel.app">Portfolio</a> ·
-  <a href="mailto:mohitkrsuman25@gmail.com">Email</a> ·
-  <a href="https://rydal.in">Rydal</a>
-</p>
+I'm a full-stack engineer who builds products on top of LLMs. I like the part of the work where a model has to do something useful in the real world: take a voice command on a moving bike, hold a conversation, or run a multi-step task on its own. I take things from first prototype to a live product, and I'm comfortable on both the AI side and the app side.
 
----
-
-## About
-
-Full-stack engineer focused on building and shipping GenAI products, from idea to production. I work with LLMs and AI agents, backed by a strong MERN foundation.
-
-- Building LLM-powered applications and autonomous agents
-- Experienced in real-time systems, voice interfaces and mobile-first products
-- Open to conversations on AI, product and engineering
+<br/>
 
 ## Projects
 
-### [Rydal](https://rydal.in): AI riding companion for motorcyclists
-Real-time group ride tracking, crash and SOS safety alerts, and a hands-free voice assistant for navigation, fuel stops and food.
+**[Rydal](https://rydal.in)** · AI companion for group motorcycle rides
+Riders see each other live on the map, get alerted automatically after a crash, and can ask a voice assistant for directions, fuel stops or food without touching the phone.
+`React Native` `Node.js` `Socket.io` `Voice AI`
 
-`Voice AI` `Real-time tracking` `React Native` `Node.js` `Socket.io`
+**Doomchat** · AI chat product
+One sentence on what it does and who it's for. *(Add a link here.)*
+`LLMs` `Agents`
 
-### Doomchat: AI chat product
-A conversational AI application built on LLMs and agent workflows. *(Add a one-line description of what it does and a link.)*
+<br/>
 
-`LLMs` `Agents` `AI Chat`
+## What I work with
 
-## Tech Stack
-
-| Area | Tools |
-|---|---|
-| **AI / GenAI** | OpenAI, LangChain, Hugging Face, Python |
-| **Frontend** | React, React Native, Next.js, Redux, Tailwind CSS |
-| **Backend** | Node.js, Socket.io, MongoDB |
-| **Languages** | JavaScript, Python, Java, C++ |
-| **Cloud & Deploy** | Vercel, Netlify, Google Cloud |
-| **Design** | Figma |
-
-## GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mohitkrsuman&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitkrsuman&theme=default&hide_border=true&layout=compact" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,java,cpp,react,nextjs,redux,tailwind,nodejs,mongodb,gcp,vercel,netlify,figma&perline=14" />
 </p>
 
-## Contact
+LLM tooling: OpenAI, LangChain, Hugging Face
 
-📫 **mohitkrsuman25@gmail.com** · 🌐 [mohitkrsuman.vercel.app](https://mohitkrsuman.vercel.app)
+<br/>
+
+## Activity
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mohitkrsuman&theme=transparent&title_color=B388FF&text_color=C9D1D9&icon_color=8A2BE2&hide_border=true&include_all_commits=true&count_private=true">
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=mohitkrsuman&theme=default&title_color=4834D4&icon_color=8A2BE2&hide_border=true&include_all_commits=true&count_private=true">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitkrsuman&theme=transparent&title_color=B388FF&text_color=C9D1D9&hide_border=true&layout=compact">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitkrsuman&theme=default&title_color=4834D4&hide_border=true&layout=compact">
+  </picture>
+</p>
+
+<br/>
+
+## Get in touch
+
+I'm happy to talk about AI products, agents, or work you'd like help building.
+**mohitkrsuman25@gmail.com**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4834D4,100:8A2BE2&height=70&section=footer" width="100%"/>
