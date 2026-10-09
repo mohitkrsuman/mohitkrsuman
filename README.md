@@ -17,6 +17,10 @@ I'm a full-stack engineer who builds products on top of LLMs. I like the part of
 Riders see each other live on the map, get alerted automatically after a crash, and can ask a voice assistant for directions, fuel stops or food without touching the phone.
 `React Native` `Node.js` `Socket.io` `Voice AI`
 
+**[DeSlop](https://github.com/mohitkrsuman/deslop)** · Dependency maps for unfamiliar codebases
+Paste a public JavaScript or TypeScript repo and get an interactive map of how its files connect. Everything on the map comes from parsing the source, not from a model's guess, so you can trust what you see. Select a file to check what it depends on, what breaks if you change it, and where the import cycles are. It understands Next.js, NestJS, React and Express conventions, and it leaves out routes it can't recover exactly instead of making them up.
+`Next.js` `TypeScript` `Supabase` `Clerk`
+
 **Doomchat** · AI chat product
 One sentence on what it does and who it's for. *(Add a link here.)*
 `LLMs` `Agents`
@@ -26,7 +30,7 @@ One sentence on what it does and who it's for. *(Add a link here.)*
 ## What I work with
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,java,cpp,react,nextjs,redux,tailwind,nodejs,mongodb,gcp,vercel,netlify,figma&perline=14" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,react,nextjs,redux,tailwind,nodejs,mongodb,supabase,gcp,vercel,figma&perline=15" />
 </p>
 
 LLM tooling: OpenAI, LangChain, Hugging Face
